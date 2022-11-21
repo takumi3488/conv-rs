@@ -11,9 +11,11 @@ pub mod csv;
 #[command(author, version, about, long_about = None)]
 pub struct Args {
     // Source File path
+    #[arg(value_name = "SOURCE_PATH")]
     path: String,
 
     // Target extension
+    #[arg(value_name = "TARGET_EXTENSION")]
     target: String,
 }
 
