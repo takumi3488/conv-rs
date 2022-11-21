@@ -10,7 +10,7 @@ pub mod csv;
 #[derive(Parser, Debug)]
 #[command(author, version, about, long_about = None)]
 pub struct Args {
-    // File path
+    // Source File path
     path: String,
 
     // Target extension
