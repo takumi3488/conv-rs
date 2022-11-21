@@ -1,6 +1,6 @@
 [package]
 name = "conv-rs"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["Takumi Mori"]
 description = "CLI converter for multi extensions."
