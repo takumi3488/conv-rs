@@ -1,6 +1,6 @@
 # conv.rs
 
-This will be powerful and fast converter.
+Eventually, this will be powerful and fast converter.
 
 ## Getting Start
 
